@@ -1,0 +1,16 @@
+{
+  "name": "visa-appointment-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "Paterson Anaccius",
+  "license": "ISC",
+  "dependencies": {
+    "2captcha": "^3.0.7",
+    "playwright": "^1.36.1",
+    "playwright-cluster": "^1.0.3"
+  }
+}
