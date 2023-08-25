@@ -79,7 +79,6 @@ export const data = [
 		email: "clementchris9293@email.com",
 		visaType: "1", // 1 = Visa pou granmoun, 2 = Visa pou minè
 	},
-	,
 	{
 		name: "Pexer Bellande",
 		lastName: "Marie Evelyne",
